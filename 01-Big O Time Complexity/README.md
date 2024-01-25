@@ -13,3 +13,8 @@ return h.value;
 Insertion
 this.tail.next = E;
 this.tail = E;
+
+Running time 2 O(1)
+enqueue
+deque
+peek 
