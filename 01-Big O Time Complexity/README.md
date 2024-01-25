@@ -4,6 +4,8 @@
 
 ***You can't trade time for memory as it takes time to make the memory***
 
+<br />
+
 ```javascript
 function sum_char_codes(n: string): number {
   let sum = 0;
