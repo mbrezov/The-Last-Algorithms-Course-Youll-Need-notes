@@ -98,7 +98,7 @@ ITS STILL O(n)*
 <br /> 
 `O(n^2)` ⇢ ***quadratic*** - *the number of operations is proportional to the square of the size of the input. Commonly found in inefficient sorting algorithms like Bubble Sort and Insertion Sort.*
 <br /> 
-`O(2n^2), O(n!)` - *algorithms that can't run on traditional computers*
+`O(2^n), O(n!)` - *algorithms that can't run on traditional computers*
 
 <br />
 
