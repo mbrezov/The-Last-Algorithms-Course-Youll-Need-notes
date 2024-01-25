@@ -17,6 +17,8 @@ function sum_char_codes(n: string): number {
 ```
 `Running time: O(n)`
 
+<br />
+
 > [!TIP]
 > Trick: Look for Loop
 
@@ -38,6 +40,8 @@ function sum_char_codes(n: string): number {
 ｝
 ```
 `Running time: O(n)`
+
+<br />
 
 > [!NOTE]
 > ***The second most important concept is you always drop constants, as we are not trying to get this is how many units of CPU you need to use. It's how it grows.***
@@ -134,12 +138,12 @@ function sum_char_codes(n: string): number {
 
 <br />
 
-`Running time: O(n log n)` - Quicksort
+`Running time: O(nlogn)` - Quicksort
 <br />
 - for every time, you go over. You have half the amount of space you need to search, but you need to search the whole space once every time. So, you go over n characters, then you have how much you need to do, then you go over n characters you have how much you need to look at.
 
 <br />
 
-`Running time: O(log n)` - Binary search trees
+`Running time: O(logn)` - Binary search trees
 <br />
 - you have the amount of input you have to search, but you only need to look at one point at a time. And so it eventually goes down to zero.
