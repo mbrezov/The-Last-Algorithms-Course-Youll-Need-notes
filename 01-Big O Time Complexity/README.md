@@ -116,7 +116,7 @@ function sum_char_codes(n: string): number {
 
 `Running time: O(n^2)`
 
-Count loops, for every single character we go inot another for loop and check every single character (squared)
+Count loops, for every single character we go into another for loop and check every single character (squared)
 
 <br />
 
