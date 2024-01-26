@@ -1,3 +1,4 @@
+# Arrays Data Structure
 **Array** - a contiguous memory space. Contiguous means unbreaking memory space which contains a certain amount of bytes.
 - *It has a fixed size, it has to be a specified size (has to have size as part of its allocation)*
 - *You can relocate it, create a new array, take your old array, write it into a new one, and then you have a new bigger array*
