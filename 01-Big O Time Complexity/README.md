@@ -1,3 +1,4 @@
+# Big O Time Complexity
 **Big O** - categorizes algorithm on time or memory based on the input. It's not meant to be an exact measurement.
 - *It helps us to make decisions about why we should or should not use some specific data structure*
 - *As your input grows, how fast do computation and memory grow*
