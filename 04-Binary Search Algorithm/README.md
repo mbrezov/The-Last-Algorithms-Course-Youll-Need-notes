@@ -18,13 +18,30 @@ v = array[m] // setting the pointer to the middle of the array
 do{
   if v === m
     return true
-  else if v > m // right-hand side is greater than the needle, so reducing high side to that point and excluding the middle
+  else if v > m // our value is larger than the middle, it is larger than everything on the left side, so we need to only look on the right side, so we adjust our low
     lo = m + 1 // +1 as we don't need to consider the midpoint as we know that it's not the right value
-  else 
+  else // our value is lower than the current value, so we need to check on the lower (left) side
     hi = m 
 } while(lo < hi) // do it till pointers get to the same point (collapse)
   return false
 ```
+
+<br />
+
+>[!NOTE]
+>![image](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/assets/127137480/c600476a-3894-4e70-b430-60a7c6a9756d)
+><br />
+>`else if v > m` ***// our value is larger than the middle, it is larger than everything on the left side, so we need to only look on the right side, so we adjust our low***
+><br />
+    `lo = m + 1` ***// +1 as we don't need to consider the midpoint as we know that it's not the right value***
+>
+><br />
+><br />
+>
+>![image](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/assets/127137480/81e56206-e210-481f-bc68-3d9ea8f25f2e)
+><br />
+>`hi = m ` ***// our value is lower than the current value, so we need to check on the lower (left) side***
+
 <br />
 
 > [!IMPORTANT]
