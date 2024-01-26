@@ -18,7 +18,8 @@ v = array[m] // setting the pointer to the middle of the array
 do{
   if v === m
     return true
-  else if v > m // our value is larger than the middle, it is larger than everything on the left side, so we need to only look on the right side, so we adjust our low
+  else if v > m // our value is larger than the middle, it is larger than everything on the left side,
+                // so we need to only look on the right side, so we adjust our low
     lo = m + 1 // +1 as we don't need to consider the midpoint as we know that it's not the right value
   else // our value is lower than the current value, so we need to check on the lower (left) side
     hi = m 
