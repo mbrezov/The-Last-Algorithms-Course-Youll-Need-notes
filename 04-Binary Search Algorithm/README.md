@@ -18,10 +18,16 @@ v = array[m] // setting the pointer to the middle of the array
 do{
   if v === m
     return true
-  else if v > m // right-hand side is > than the needle, so reducing high side to that point and excluding the middle
+  else if v > m // right-hand side is greater than the needle, so reducing high side to that point and excluding the middle
     lo = m + 1 // +1 as we don't need to consider the midpoint as we know that it's not the right value
   else 
     hi = m 
 } while(lo < hi) // do it till pointers get to the same point (collapse)
   return false
 ```
+<br />
+
+> [!IMPORTANT]
+> **Code example**
+> 
+> [BinarySearchList.ts](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/blob/main/04-Binary%20Search%20Algorithm/src/BinarySearchList.ts)
