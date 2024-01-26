@@ -9,8 +9,8 @@
 - [Arrays Data Structure](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/tree/main/02-Arrays%20Data%20Structure)
 
 **Search**
-- ~~[Linear Search]~~
-- ~~[Binary Search Algorithm]~~
+- [Linear Search](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/tree/main/03-Linear%20Search)
+- [Binary Search Algorithm](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/tree/main/04-Binary%20Search%20Algorithm)
 - ~~[Two Crystal Balls Problem]~~
 
 **Sort**
