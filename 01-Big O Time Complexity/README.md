@@ -88,7 +88,7 @@ ITS STILL O(n)*
 <br /> 
 <br /> 
 
-`O(1)` ⇢ ***constant time*** - *doesn't matter how big the input is,it does the same set of operations every single time it's instant, effectively.*
+`O(1)` ⇢ ***constant time*** - *doesn't matter how big the input is, it does the same set of operations every single time it's instant, effectively.*
 <br /> 
 `O(logn)` ⇢ ***logarithmic*** - *as the input size grows, the number of operations grows very slowly.*
 <br /> 
@@ -116,7 +116,7 @@ function sum_char_codes(n: string): number {
 
 `Running time: O(n^2)`
 
-Count loops, for every single character we go every single character (squared)
+Count loops, for every single character we go inot another for loop and check every single character (squared)
 
 <br />
 
