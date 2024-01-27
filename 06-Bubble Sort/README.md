@@ -16,6 +16,7 @@
 1. is 1 > 2 ? - it's not
 2. is 3 > 7 ? - it's not
 3. is 7 > 4 ? - yes
+  Swap 7 with 4
 ```
 ![image](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/assets/127137480/a7e1c4f7-221b-4d83-acb2-a072f695c1f2)
 
@@ -23,6 +24,7 @@
 
 ```
 4. is 7 > 2 ? - yes
+  Swap 7 with 2
 ```
 ![image](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/assets/127137480/7d31eb98-9d02-46d9-b180-268adb11d4b5)
 
@@ -44,6 +46,7 @@
 5. is 1 > 3 ? - it's not
 6. is 3 > 4 ? - it's not
 7. is 4 > 2 ? - yes
+  Swap 4 with 2
 ```
 
 ![image](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/assets/127137480/295efe6d-0c32-4e41-9dcb-8ffb15614525)
@@ -53,6 +56,7 @@
 ```
 8. is 1 > 3 ? - it's not
 9. is 3 > 2 ? - yes
+  Swap 3 with 2
 ```
 ![image](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/assets/127137480/a2d455bc-ab5e-440d-bf66-2a58e7287696)
 
