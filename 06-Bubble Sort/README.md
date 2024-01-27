@@ -1,6 +1,6 @@
 # Bubble Sort
 
-***Definition of the sorted array, Any x sub i, meaning any ith position within the array, is going to be less than or equal to any i + 1***
+***Definition of the sorted array: Any x sub i, meaning any ith position within the array, is going to be less than or equal to any i + 1***
 
 ![image](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/assets/127137480/7678e315-6d33-4cdd-9b09-0b4838adda5c)
 
@@ -80,3 +80,5 @@
 
 >Gauss
 >(n(n + 1))/2 = n(n +1)
+
+
