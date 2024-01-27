@@ -39,6 +39,8 @@ node<T>
   prev?: node<T>
 ```
 
+<br />
+
 ### Insertion
 
 <img width="629" alt="image" src="https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/assets/127137480/01c01728-dc5a-4e3f-88ce-41a2b1aa077e">
