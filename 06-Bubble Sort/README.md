@@ -81,4 +81,9 @@
 >Gauss
 >(n(n + 1))/2 = n(n +1)
 
+<br />
 
+> [!IMPORTANT]
+> **Code example**
+> 
+> [BubbleSort.ts](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/blob/main/06-Bubble%20Sort/src/BubbleSort.ts)
