@@ -15,7 +15,7 @@
 
 **Sort**
 - [Bubble Sort](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/tree/main/06-Bubble%20Sort)
-- ~~[Linked List Data Structures]~~
+- [Linked List Data Structures](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/tree/main/07-Linked%20List%20Data%20Structures)
 - ~~[Queue]~~
 - ~~[Stack]~~
 
