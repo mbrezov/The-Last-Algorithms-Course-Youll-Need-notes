@@ -31,6 +31,8 @@ We are trying to find where is that midpoint***
 >[!CAUTION]
 > **Both of our algorithms are bad with `running time O(n)`**
 
+<br />
+
 ***We need to jump in such a way that isn't some portion of N that means we have to walk some portion of N. We need to be able to jump by a fundamentally different unit.***
 
 ![image](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/assets/127137480/a6634119-1ea2-42ba-a4db-b37f30aa313e)
