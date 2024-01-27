@@ -6,7 +6,7 @@
 
 <br />
 
-`Running time: 0(N)` - ***we go from 0 to N, as our input grows, so the time linearly***
+`Running time: O(N)` - ***we go from 0 to N, as our input grows, so the time linearly***
 
 <br />
 
