@@ -40,3 +40,10 @@ We are trying to find where is that midpoint***
 >sqrt(n) + sqrt(n) - worst case
 
 `Running time: O(sqrt(n))`
+
+<br />
+
+> [!IMPORTANT]
+> **Code example**
+> 
+> [TwoCrystalBalls.ts](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/blob/main/05-Two%20Crystal%20Balls%20Problem/src/TwoCrystalBalls.ts)
