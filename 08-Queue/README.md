@@ -22,21 +22,17 @@
 
 >[!NOTE]
 >**Popping**
-><br />
+>```
 >h = head
-><br />
 >head = head.next
-><br />
 >h.next = null
-><br />
 >return h.value
-><br />
-><br />
+>```
 >**Insertion**
-><br />
+>```
 >this.tail.next = E
-><br />
 >this.tail = E
+>```
 
 <br />
 
