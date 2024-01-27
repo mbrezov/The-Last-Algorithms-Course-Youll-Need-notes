@@ -11,10 +11,10 @@
 **Search**
 - [Linear Search](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/tree/main/03-Linear%20Search)
 - [Binary Search Algorithm](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/tree/main/04-Binary%20Search%20Algorithm)
-- ~~[Two Crystal Balls Problem]~~
+- [Two Crystal Balls Problem](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/tree/main/05-Two%20Crystal%20Balls%20Problem)
 
 **Sort**
-- ~~[Bubble Sort]~~
+- [Bubble Sort](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/tree/main/06-Bubble%20Sort)
 - ~~[Linked List Data Structures]~~
 - ~~[Queue]~~
 - ~~[Stack]~~
