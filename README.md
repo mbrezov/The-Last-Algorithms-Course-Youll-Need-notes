@@ -17,10 +17,10 @@
 - [Bubble Sort](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/tree/main/06-Bubble%20Sort)
 - [Linked List Data Structures](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/tree/main/07-Linked%20List%20Data%20Structures)
 - [Queue](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/tree/main/08-Queue)
-- ~~[Stack]~~
+- [Stack](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/tree/main/09-Stack)
 
 **Arrays**
-- ~~[Arrays vs Linked List]~~
+- [Arrays vs Linked List](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/tree/main/10-Arrays%20vs%20Linked%20List)
 - ~~[ArrayList]~~
 - ~~[ArrayBuffer]~~
 
