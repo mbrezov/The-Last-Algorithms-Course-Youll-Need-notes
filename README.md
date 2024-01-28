@@ -21,8 +21,8 @@
 
 **Arrays**
 - [Arrays vs Linked List](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/tree/main/10-Arrays%20vs%20Linked%20List)
-- ~~[ArrayList]~~
-- ~~[ArrayBuffer]~~
+- [ArrayList](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/tree/main/11-ArrayList)
+- [ArrayBuffer](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/tree/main/12-ArrayBuffer)
 
 **Recursion**
 - ~~[Recursion]~~
