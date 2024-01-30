@@ -25,10 +25,10 @@
 - [ArrayBuffer](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/tree/main/12-ArrayBuffer)
 
 **Recursion**
-- ~~[Recursion]~~
+- [Recursion](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/tree/main/13-Recursion)
 
 **Quick Sort**
-- ~~[QuickSort Algorithm]~~
+- [QuickSort Algorithm](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/tree/main/14-QuickSort%20Algorithm)
 
 **Doubly Linked List**
 - ~~[Doubly Linked List]~~
