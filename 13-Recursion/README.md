@@ -54,7 +54,7 @@ foo(n)
 <img width="614" alt="image" src="https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/assets/127137480/a7de73ed-0943-42c7-b9d4-d5f348b9308a">
 
 ```
->***We can only move in 4 directions (top, right, bottom, left)***
+We can only move in 4 directions (top, right, bottom, left)
 ```
 
 <br />
