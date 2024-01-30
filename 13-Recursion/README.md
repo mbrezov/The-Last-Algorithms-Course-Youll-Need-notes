@@ -76,3 +76,10 @@ foo(n)
 <br />
 
 `Running time`: O(4s) - *at most we check 4 times* = **O(n)**
+
+<br />
+
+> [!IMPORTANT]
+> **Code example**
+> 
+> [MazeSolver.ts](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/blob/main/13-Recursion/src/MazeSolver.ts)
