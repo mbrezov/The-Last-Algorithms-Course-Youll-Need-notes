@@ -42,8 +42,8 @@
 - [Depth-First Search](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/tree/main/19-Depth-First%20Search)
 
 **Heap**
-- ~~[Heap]~~
-- ~~[Tries]~~
+- [Heap](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/tree/main/20-Heap)
+- [Tries](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/tree/main/21-Tries)
 
 **Graphs**
 - ~~[Graphs]~~
