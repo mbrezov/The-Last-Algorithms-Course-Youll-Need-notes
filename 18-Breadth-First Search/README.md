@@ -36,15 +36,14 @@ while q.notEmpty()
 <br />
 
 ## Practice Problem
-Comparing two binary trees to see if the are equal in both shapše and strucutre.
+Comparing two binary trees to see if they are equal in both shape and structure.
 
-
-
+![image](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/assets/127137480/aee03202-2250-4a56-9239-d711cb1352b5)
 
 <br />
 
 >[!NOTE]
->**Breadth-First Search** is WRONG. It is not structurallz true!
+>**Breadth-First Search** is WRONG. It is not structurally true!
 
 >[!IMPORTANT]
 >**Depth-First Search** does preserve shape while Breadth-First Search does NOT!
