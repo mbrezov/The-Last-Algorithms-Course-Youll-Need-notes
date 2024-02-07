@@ -26,8 +26,8 @@
 
 <br />
 
->[!NOTE]
->*This is a Dept-First Search, preorder traversal*
+>[!TIP]
+>*This is a Depth-First Search, preorder traversal*
 
 ### Pseudo Code for insertion
 
