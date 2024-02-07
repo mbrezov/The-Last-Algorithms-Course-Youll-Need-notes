@@ -38,8 +38,8 @@
 - [Tree Traversals](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/tree/main/17-Tree%20Traversals)
 
 **Tree Search**
-- ~~[Breadth-First Search]~~
-- ~~[Depth-First Search]~~
+- [Breadth-First Search](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/tree/main/18-Breadth-First%20Search)
+- [Depth-First Search](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/tree/main/19-Depth-First%20Search)
 
 **Heap**
 - ~~[Heap]~~
