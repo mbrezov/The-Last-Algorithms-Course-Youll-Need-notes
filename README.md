@@ -31,11 +31,11 @@
 - [QuickSort Algorithm](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/tree/main/14-QuickSort%20Algorithm)
 
 **Doubly Linked List**
-- ~~[Doubly Linked List]~~
+- [Doubly Linked List](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/tree/main/15-Doubly%20Linked%20List)
 
 **Trees**
-- ~~[Trees]~~
-- ~~[Tree Traversals]~~
+- [Trees](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/tree/main/16-Trees)
+- [Tree Traversals](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/tree/main/17-Tree%20Traversals)
 
 **Tree Search**
 - ~~[Breadth-First Search]~~
