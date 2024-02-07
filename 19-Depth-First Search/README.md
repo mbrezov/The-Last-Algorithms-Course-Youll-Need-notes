@@ -79,6 +79,21 @@ insert(n, value)
 
 ![image](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/assets/127137480/46591ef9-e990-47e5-a29d-15597239d424)
 
-```
-If we delete 4, tree is still valid as 4 has no children
-```
+
+
+>[!IMPORTANT]
+>**Case 1 - no child**
+><br />
+>We can delete.
+>```
+>If we delete 4, tree is still valid as 4 has no children
+>```
+>
+>**Case 2 - one child**
+><br />
+>Set parent to child.
+><br />
+>```
+>Remove ourselves and point to the next one.
+>Find the smallest on the large side and set that as a parent or largest on the small side.
+>```
