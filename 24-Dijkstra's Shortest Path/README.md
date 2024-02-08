@@ -85,3 +85,9 @@ while hasUnvisited(){ // we get the nearest unvisited node, running time of func
 
 `There are 2 islands`
 
+<br />
+
+> [!IMPORTANT]
+> **Code example**
+> 
+> [DijkstraList.ts](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/blob/main/24-Dijkstra's%20Shortest%20Path/src/DijkstraList.ts)
