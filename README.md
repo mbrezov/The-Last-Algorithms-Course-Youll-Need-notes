@@ -46,9 +46,9 @@
 - [Tries](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/tree/main/21-Tries)
 
 **Graphs**
-- ~~[Graphs]~~
-- ~~[Searching an Adjacency Matrix]~~
-- ~~[Dijkstra's Shortest Path]~~
+- [Graphs](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/tree/main/22-Graphs)
+- [Searching an Adjacency Matrix](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/tree/main/23-Searching%20an%20Adjacency%20Matrix)
+- [Dijkstra's Shortest Path](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/tree/main/24-Dijkstra's%20Shortest%20Path)
 
 **Maps**
 - ~~[Maps]~~
