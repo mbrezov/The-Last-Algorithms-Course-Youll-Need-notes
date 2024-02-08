@@ -51,5 +51,5 @@
 - [Dijkstra's Shortest Path](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/tree/main/24-Dijkstra's%20Shortest%20Path)
 
 **Maps**
-- ~~[Maps]~~
-- ~~[LRU Cache]~~
+- [Maps](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/tree/main/25-Maps)
+- [LRU Cache](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/tree/main/26-LRU%20Cache)
