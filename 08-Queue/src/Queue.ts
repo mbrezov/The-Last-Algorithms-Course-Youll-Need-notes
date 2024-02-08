@@ -15,25 +15,25 @@ export default class Queue<T> {
 
     enqueue(item: T): void {
         const node = { value: item } as Node<T>;
-        this.length++; //bookkeeping
+        this.length++; // bookkeeping
         if (!this.tail) {
-            this.tail = this.head = node; //created new node
+            this.tail = this.head = node; // created new node
             return;
         }
 
-        this.tail.next = node; // took our tail and add a new one to the list
-        this.tail = node; //point our tail to the new one (last item in the list)
+        this.tail.next = node; // took our tail and added a new one to the list
+        this.tail = node; // point our tail to the new one (last item in the list)
     }
 
     deque(): T | undefined {
         if (!this.head) {
             return undefined;
         }
-        this.length--; //bookkeeping
-        const head = this.head; //saved our head
-        this.head = this.head.next; //update head to point to the next value
+        this.length--; // bookkeeping
+        const head = this.head; // saved our head
+        this.head = this.head.next; // update head to point to the next value
 
-        head.next = undefined; //cleanup, we don't need to do this
+        head.next = undefined; // cleanup, we don't need to do this
 
         if (this.length === 0) {
             this.tail = undefined;
@@ -42,6 +42,6 @@ export default class Queue<T> {
         return head.value;
     }
     peek(): T | undefined {
-        return this.head?.value; //go to our head if it does exist and display the value
+        return this.head?.value; // go to our head if it does exist and display the value
     }
 }
