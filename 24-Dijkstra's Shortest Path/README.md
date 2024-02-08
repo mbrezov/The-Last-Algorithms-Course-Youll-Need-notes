@@ -77,7 +77,7 @@ while hasUnvisited(){ // we get the nearest unvisited node, running time of func
 ***How many islands there are?** - island is anything that has a 1 that is connected in any of the four directions to another 1*
 
 >[!NOTE]
->We can use BFS or DFS
+>**We can use BFS or DFS**
 ><br/>
 >We mark island 1 as seen (0). The check if any direction is 1, if it is not, we are done looking. If it is, we mark it as seen (turn into 0) and keep scanning.
 
