@@ -38,3 +38,9 @@
 
 `Running time 2 O(1)` - **we don't traverse anything, we don't go over the list. We just have to set one next value to the new node, and update where the tail points to**
 
+<br />
+
+> [!IMPORTANT]
+> **Code example**
+> 
+> [Queue.ts](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/blob/main/08-Queue/src/Queue.ts)
