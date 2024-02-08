@@ -28,3 +28,10 @@
 <br />
 
 *If traversal to the node is constant, it doesn't matter how many nodes are within the LinkedList, you have to break two connections on each side to pull it out. To insert it into the front you have to put two connections plus adjusting the head. S total of `7 O(1)` operations.*
+
+<br />
+
+>[!IMPORTANT]
+>**Code example**
+>
+>[LRU.ts](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/blob/main/26-LRU%20Cache/src/LRU.ts)
