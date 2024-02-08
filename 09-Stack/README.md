@@ -59,3 +59,9 @@ update head to point to prev (D)
 >
 >It is fast because we only allow push and pop on the one side
 
+<br />
+
+> [!IMPORTANT]
+> **Code example**
+> 
+> [Stack.ts](https://github.com/mbrezov/The-Last-Algorithms-Course-Youll-Need-notes/blob/main/09-Stack/src/Stack.ts)
