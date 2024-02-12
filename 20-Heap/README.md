@@ -1,6 +1,6 @@
 # Heap (Priority queue)
 
-***It is a binary tree where every child and grandchild is smaller (MaxHeap) or larger (MinHeadp) than the current node.***
+***It is a binary tree where every child and grandchild is smaller (MaxHeap) or larger (MinHeap) than the current node.***
 
 >[!TIP]
 >*Whenever a node is added or deleted, we must adjust the tree
